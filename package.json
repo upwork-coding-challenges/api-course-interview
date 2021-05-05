@@ -1,0 +1,14 @@
+{
+  "name": "api-course-interview",
+  "version": "1.0.0",
+  "description": "Feel free to add any dependencies you use to the root of this project to make your lesson planning easier",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
+}
