@@ -52,6 +52,8 @@ Please see the Example for a good sense of what I am looking for.
 
 Given that this task is fairly complex and you have a limited amount of time it is okay not to finish everything before you submit. For instance, in the example I have laid out a course outline and 3 lesson folders, but you'll notice only 1 of them is actually complete ("Imperative vs Functional Programming"), and the rest are stubs. This is to demonstrate what an incomplete submission might look like.
 
+<strong>It is very important that you do this work on a separate git branch. Do NOT push directly to the main branch. See the "How to submit" section later in this document for more details. </strong>
+
 ## The steps
 
 You may perform this task in whatever way you like, but if you get stuck here is the order I would recommend doing things:
