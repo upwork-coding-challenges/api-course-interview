@@ -1,11 +1,57 @@
 # Outline - Designing and Building a CRUD API
 
-Learning Goal: TODO
+Learning Goal: Help JavaScript developers understand the fundamentals of web development, API integration and using third party library/API's.
 
 ## Lessons
 
-TODO
+1. Introduction to REST.
+
+2. Introduction to Node JS, Mongo DB/MySQL Database and CRUD.
+
+3. Setting up a basic Nodejs application.
+
+4. Creation of REST API.
+
+5. Introduction of Express JS.
+
+6. Introduction of ORM (Object-Relational Mapping).
+
+7. Data Validation.
+
+8. JWT, Authentication and API Security
+
+9. Fetching API result using Postman.
+
+10. API Testing.
+
+11. Creating Project.
 
 ## Resources Used
 
-- TODO
+[REST API Tutorial](https://restfulapi.net/)
+
+[REST Article](https://www.codecademy.com/articles/what-is-rest)
+
+[REST Wikipedia](https://en.wikipedia.org/wiki/Representational_state_transfer)
+
+[CRUD](https://www.codecademy.com/articles/what-is-crud)
+
+[Mongo DB](https://www.mongodb.com/)
+
+[MySQL](https://www.w3schools.com/mysql/)
+
+[NodeJs Documentation](https://nodejs.org/en/docs/)
+
+[Express](https://expressjs.com/)
+
+[Express Wikipedia](https://en.wikipedia.org/wiki/Express.js)
+
+[ORM](https://stackoverflow.com/questions/1279613/what-is-an-orm-how-does-it-work-and-how-should-i-use-one)
+
+[ORM Wikipedia](https://en.wikipedia.org/wiki/Object%E2%80%93relational_mapping)
+
+[Data Validation Blog](https://stackabuse.com/form-data-validation-in-nodejs-with-express-validator/)
+
+[JWT](https://jwt.io/)
+
+[JWT Implementation](https://www.freecodecamp.org/news/securing-node-js-restful-apis-with-json-web-tokens-9f811a92bb52/)
