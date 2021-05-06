@@ -45,3 +45,9 @@ Learning Goal: Help JavaScript developers understand the fundamentals of web dev
 [Express](https://expressjs.com/)
 
 [Express Wikipedia](https://en.wikipedia.org/wiki/Express.js)
+
+[ORM](https://stackoverflow.com/questions/1279613/what-is-an-orm-how-does-it-work-and-how-should-i-use-one)
+
+[ORM Wikipedia](https://en.wikipedia.org/wiki/Object%E2%80%93relational_mapping)
+
+
