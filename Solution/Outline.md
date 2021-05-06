@@ -6,7 +6,7 @@ Learning Goal: Help JavaScript developers understand the fundamentals of web dev
 
 1. Introduction to REST.
 
-2. Introduction to Node JS, Mongo DB/MySQL Database, related library.
+2. Introduction to Node JS, Mongo DB/MySQL Database and CRUD.
 
 3. Setting up a basic Nodejs application.
 
