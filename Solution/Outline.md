@@ -50,4 +50,8 @@ Learning Goal: Help JavaScript developers understand the fundamentals of web dev
 
 [ORM Wikipedia](https://en.wikipedia.org/wiki/Object%E2%80%93relational_mapping)
 
+[Data Validation Blog](https://stackabuse.com/form-data-validation-in-nodejs-with-express-validator/)
 
+[JWT](https://jwt.io/)
+
+[JWT Implementation](https://www.freecodecamp.org/news/securing-node-js-restful-apis-with-json-web-tokens-9f811a92bb52/)
