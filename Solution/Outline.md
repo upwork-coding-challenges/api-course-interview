@@ -29,5 +29,15 @@ Learning Goal: Help JavaScript developers understand the fundamentals of web dev
 ## Resources Used
 
 [REST API Tutorial](https://restfulapi.net/)
+
 [REST Article](https://www.codecademy.com/articles/what-is-rest)
+
 [REST Wikipedia](https://en.wikipedia.org/wiki/Representational_state_transfer)
+
+[CRUD](https://www.codecademy.com/articles/what-is-crud)
+
+[Mongo DB](https://www.mongodb.com/)
+
+[MySQL](https://www.w3schools.com/mysql/)
+
+[NodeJs Documentation](https://nodejs.org/en/docs/)
